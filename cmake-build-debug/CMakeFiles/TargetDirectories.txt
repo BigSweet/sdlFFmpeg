@@ -1,0 +1,5 @@
+/Users/yanzhe/ffmpeg/ffmpeg_install/sdlProject/cmake-build-debug/CMakeFiles/sdlProject2.dir
+/Users/yanzhe/ffmpeg/ffmpeg_install/sdlProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yanzhe/ffmpeg/ffmpeg_install/sdlProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yanzhe/ffmpeg/ffmpeg_install/sdlProject/cmake-build-debug/CMakeFiles/sdlProject1.dir
+/Users/yanzhe/ffmpeg/ffmpeg_install/sdlProject/cmake-build-debug/CMakeFiles/sdlProject.dir
